@@ -13,15 +13,15 @@
 ![Architecture](/image/architecture.png)
 
 # リポジトリ
-Frontーend: https://github.com/nouvelle/sbux-47pref-front  
-Back-end: https://github.com/nouvelle/sbux-47pref-back  
+⚠️準備中: Front-end: https://github.com/nouvelle/sbux-47pref-front  
+⚠️準備中: Back-end: https://github.com/nouvelle/sbux-47pref-back  
 
 # 開発方法 / Development
 各リポジトリの README をご確認ください。
 
 
 # コントリビューション / Contributing
-Issues & Pull requests are welcome!! 😊
+みなさんからの Issues & Pull requests 大歓迎です！ 😊
 
 # ライセンス / License
 [MIT](https://choosealicense.com/licenses/mit/)
