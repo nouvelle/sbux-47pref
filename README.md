@@ -1,7 +1,5 @@
 # STARBUCKS 47 JIMOTO Frappuccino 投稿サイト
-<img src="./image/img1.png" alt="トップページ" width="30%">
-<img src="./image/img2.png" alt="投稿ページ" width="30%">
-<img src="./image/img3.png" alt="個別ページ" width="30%">
+<img src="./image/img1.png" alt="トップページ" width="30%"> <img src="./image/img2.png" alt="投稿ページ" width="30%"> <img src="./image/img3.png" alt="個別ページ" width="30%">
 
 # このリポジトリについて / About
 2021年6月30日から8月3日までの期間限定で始まった [STARBUCKS JAPAN 47JIMOTO フラペチーノ](https://www.starbucks.co.jp/cafe/jimoto_frappuccino/)  
